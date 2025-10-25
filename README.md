@@ -16,7 +16,7 @@ To build an interactive Power BI dashboard that provides meaningful insights int
 | cashflowStatement_annually.csv | Annual cash flow data | Annual |
 | cashflowStatement_quarterly.csv | Quarterly cash flow data | Quarterly |
 
-Total Records Processed: ~2,000+ rows  
+Total Records Processed: ~17,000+ raw records (cleaned and refined to 4,422 usable rows) 
 Key Metrics: Revenue, Net Income, Assets, Liabilities, Cash Flow, Debt/Equity, Retained Earnings  
 
 ---
